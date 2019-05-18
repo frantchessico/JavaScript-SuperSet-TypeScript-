@@ -101,7 +101,7 @@ let fullName: Array<Names> = [Names.Fname, Names.Mname, Names.Lname];
 
 console.log(fullName[2]);
 
-//5.1 changing the position:
+//6.1 changing the position:
 
 enum myNote {
   noteOne,
@@ -124,6 +124,11 @@ enum myNoteChagedPosition {
 }
 
 let showmyNoteCha:myNoteChagedPosition = myNoteChagedPosition.noteFive;
-console.log("Position changed: ", showmyNoteCha)
+console.log("Position changed: ", showmyNoteCha);
+
+//6-Enums
+console.log("----------------------------------------");
+console.log("About Enum :");
+console.log("----------------------------------------");
 
 
