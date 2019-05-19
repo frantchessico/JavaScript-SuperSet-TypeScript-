@@ -128,7 +128,8 @@ console.log("Position changed: ", showmyNoteCha);
 
 //6-Enums
 console.log("----------------------------------------");
-console.log("About Enum :");
+console.log("About Any :");
 console.log("----------------------------------------");
+
 
 
