@@ -132,6 +132,7 @@ console.log("About Any :");
 console.log("----------------------------------------");
 let PesrsoUser: any = {
   nome:"Francisco",
+  apelido:"Inoque"
 }
 
 
